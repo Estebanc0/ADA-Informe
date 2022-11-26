@@ -84,3 +84,19 @@ Informe 10
 
 
 Informe 11
+
+-Se arregla codigo (ahora funciona)
+
+-Se agrega visualize
+
+-Se mejora descripcion del problema 
+
+-Se agrega ejemplo
+
+-Se aregla descripcion del algoritmo
+
+-Se arregla tiempo de jecucion
+
+-Se agrega experimento
+
+-Se corrige ortografia
