@@ -83,6 +83,8 @@ Informe 10
 -se agrega información a tiempos de ejecución
 
 
+
+
 Informe 11
 
 -Se arregla codigo (ahora funciona)
@@ -93,10 +95,23 @@ Informe 11
 
 -Se agrega ejemplo
 
--Se aregla descripcion del algoritmo
+-Se arregla descripcion del algoritmo
 
--Se arregla tiempo de jecucion
+-Se arregla tiempo de ejecucion
 
 -Se agrega experimento
 
 -Se corrige ortografia
+
+
+
+Informe 12.
+-Se agrega descripcion y un ejemplo al algoritmo Dijkstra.
+
+-Se arregla algoritmo de Dijkstra y se le implementa su funcion visualize.
+
+-Se arregla tiempo de ejecucion de Dijkstra
+
+-Se agrega ejemplo a algoritmo Bellmand-Ford
+
+-Se agregan experimentos
