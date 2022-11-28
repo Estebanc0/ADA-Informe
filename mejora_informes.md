@@ -106,6 +106,7 @@ Informe 11
 
 
 Informe 12.
+
 -Se agrega descripcion y un ejemplo al algoritmo Dijkstra.
 
 -Se arregla algoritmo de Dijkstra y se le implementa su funcion visualize.
